@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RishabhLawaniya
 - 👀 I’m interested in Problem Solving.
-- 🌱 I’m currently learning Web Developement.
-- 💞️ I’m looking to collaborate on any Web based Project.
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on any ML based Project.
 - 📫 How to reach me ...
 
 <!---
