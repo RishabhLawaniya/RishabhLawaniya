@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RishabhLawaniya
 - 👀 I’m interested in Problem Solving.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning SpringBoot Framework.
 - 💞️ I’m looking to collaborate on any ML based Project.
 - 📫 How to reach me...
 
