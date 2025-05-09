@@ -35,4 +35,6 @@ I'm a passionate **Full stack developer** and an **AI Enthusiast** who loves bui
 </p>
 
 ### 🎊 Few of my awesome projects:
+
+- krowdfunds - Donation platform for NGOs [(link)](https://krowdfunds.netlify.app/)
   
