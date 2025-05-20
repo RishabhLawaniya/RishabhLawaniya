@@ -36,5 +36,6 @@ I'm a passionate **Full stack developer** and an **AI Enthusiast** who loves bui
 
 ### 🎊 Few of my awesome projects:
 
-- krowdfunds - Donation platform for NGOs [(link)](https://krowdfunds.netlify.app/)
+- krowdfunds - Donation platform for NGOs [(LINK)](https://krowdfunds.netlify.app/)
+- signspeaks - Translate hand gestures from sign language into real-time text using webcam input [(LINK)](https://signspeaks.netlify.app/)
   
