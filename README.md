@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Rishabh Lawaniya!
 I'm a passionate **Full stack developer** and an **AI Enthusiast** who loves building impactful products 🚀. Currently exploring new challenges in Full stack development and technical problem-solving ⚙️. I enjoy turning ideas into reality through clean code, collaboration, and continuous learning. 💡 I believe in innovation through simplicity — finding smart, efficient solutions that make technology more accessible and meaningful.
 
-## View My Portfolio💻 [(link)](https://whimsical-bombolone-d85f66.netlify.app/)
+## View My Portfolio💻 [(link)](https://rishabh-folio.netlify.app/)
 
 ### 🌟 Technologies I've worked with:
 
